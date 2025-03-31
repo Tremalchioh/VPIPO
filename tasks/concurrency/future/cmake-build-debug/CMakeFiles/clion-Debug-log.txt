@@ -1,0 +1,21 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/user/Downloads/Kxrma47-main/tasks/concurrency/future -B /Users/user/Downloads/Kxrma47-main/tasks/concurrency/future/cmake-build-debug
+-- The CXX compiler identification is AppleClang 15.0.0.15000100
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /Library/Developer/CommandLineTools/usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+CMake Error at CMakeLists.txt:10 (find_package):
+  Could not find a package configuration file provided by "Catch2" with any
+  of the following names:
+
+    Catch2Config.cmake
+    catch2-config.cmake
+
+  Add the installation prefix of "Catch2" to CMAKE_PREFIX_PATH or set
+  "Catch2_DIR" to a directory containing one of the above files.  If "Catch2"
+  provides a separate development package or SDK, be sure it has been
+  installed.
+
+
+-- Configuring incomplete, errors occurred!

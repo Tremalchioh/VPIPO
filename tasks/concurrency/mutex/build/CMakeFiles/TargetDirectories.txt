@@ -1,0 +1,4 @@
+/Users/max/Downloads/system_engineering_course-main/tasks/concurrency/mutex/build/CMakeFiles/tests.dir
+/Users/max/Downloads/system_engineering_course-main/tasks/concurrency/mutex/build/CMakeFiles/test.dir
+/Users/max/Downloads/system_engineering_course-main/tasks/concurrency/mutex/build/CMakeFiles/edit_cache.dir
+/Users/max/Downloads/system_engineering_course-main/tasks/concurrency/mutex/build/CMakeFiles/rebuild_cache.dir

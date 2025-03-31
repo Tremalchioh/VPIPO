@@ -1,0 +1,4 @@
+/Users/user/Downloads/system_engineering_course-main/tasks/concurrency/future/build/CMakeFiles/tests.dir
+/Users/user/Downloads/system_engineering_course-main/tasks/concurrency/future/build/CMakeFiles/test.dir
+/Users/user/Downloads/system_engineering_course-main/tasks/concurrency/future/build/CMakeFiles/edit_cache.dir
+/Users/user/Downloads/system_engineering_course-main/tasks/concurrency/future/build/CMakeFiles/rebuild_cache.dir
